@@ -5,3 +5,4 @@ línea 2
 párrafo p1
 -----------
 tabla 1
+tabla 2
